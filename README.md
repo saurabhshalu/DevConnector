@@ -5,3 +5,8 @@ Add ".env" file in root folder
 
 mongoURI = "MongoDB url"
 secretOrKey = "Your Secret Key"
+
+------------------------------------------
+
+Run "npm install"
+Run "npm run server"
